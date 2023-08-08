@@ -1,9 +1,9 @@
 .chart {
     padding: 1rem;
     border-radius: 12px;
-    background-color: #f8dfff;
+    background-color: #f9e5ff; /*#c3b4f3#f8dfff#A7CCED#b8b1b6*/
     text-align: center;
     display: flex;
     justify-content: space-around;
     height: 10rem;
-}
+}   
