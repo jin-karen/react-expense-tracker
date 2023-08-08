@@ -24,3 +24,24 @@
 .new-expense__actions {
 	text-align: right;
 }
+
+@media (max-width: 724px) {
+	.new-expense__controls {
+		justify-content: center;
+	}
+	.new-expense__actions {
+		text-align: center;
+	}
+	.new-expense__actions button{
+		margin: 0 10px;
+	}
+} 
+@media (max-width: 420px) {
+	.new-expense__control input {
+		width: 15rem;
+		max-width: 100%;
+	}
+	.new-expense__actions button{
+		margin: 5px 10px;
+	}
+}
