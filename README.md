@@ -3,6 +3,23 @@
 A simple React expense tracker web application that has the functionality to add new expenses, displays existing expenses, filters expenses by year, and compares the expenses spent per month to yearly spendings with a chart. The web application includes four dummy starting expenses to exemplify possible expenses, which is stored and can be changed in the App component. This web application is my first React project and was completed in complement to my studies, guided by the Udemy Course "React - The Complete Guide 2023" taught by Academind by Maximilian Schwarzmüller.
 
 
+## To Run
+Live: https://jin-karen.github.io/rock-paper-scissors/
+
+Project was coded for 1920x1080 display resolution and adjustments were made for smaller screens.
+Application is optimized for mobile devices.
+
+In order to run the application locally, first ensure that you have node.js installed and then clone the project repository to your local computer. Navigate to the root directory of the repository and run:
+```
+npm install
+```
+This will install all the dependencies needed to run the application, which are detailed in the package.json file. Run the following in your terminal to start the development server:
+```
+npm start
+```
+The project will then be able to be viewed locally in localhost:3000; you can close the session at any time using "ctrl +c".
+
+
 ## Project Takeaways
 The React Expense Tracker App was my first project utilizing the open-source front-end JavaScript library called React, where I was able to not only learn React fundamentals but also have the opportunity to implement previously acquired JavaScript, CSS, and HTML knowledge. Key concepts used to build this application include but are not limited to the following:
 * create-react-app
@@ -42,8 +59,11 @@ Along with learning many React concepts and basics, I was also able to practice 
 
 ## Credits
 [Udemy Academind Maximilian Schwarzmüller React The Complete Guide 2023](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
 [Deploy React Apps to Github Pages](https://github.com/gitname/react-gh-pages)
+
 [Deploying React Apps to Github Pages](https://blog.logrocket.com/deploying-react-apps-github-pages/#pushing-the-react-app-to-the-github-repository)
+
 [Deploying Github Pages with create-react-app](https://www.pluralsight.com/guides/deploying-github-pages-with-create-react-app)
 
 
