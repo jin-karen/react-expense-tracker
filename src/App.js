@@ -38,6 +38,7 @@ function App() {
 	};
 	return (
 		<div>
+			<h1 className="project-title">React Expense Tracker</h1>
 			<NewExpense onAddExpense={addExpenseHandler} />
 			<Expenses expenses={expenses}/>
 		</div>
