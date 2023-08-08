@@ -4,7 +4,7 @@ A simple React expense tracker web application that has the functionality to add
 
 
 ## To Run
-Live: https://jin-karen.github.io/rock-paper-scissors/
+Live: https://jin-karen.github.io/react-expense-tracker/
 
 Project was coded for 1920x1080 display resolution and adjustments were made for smaller screens.
 Application is optimized for mobile devices.
