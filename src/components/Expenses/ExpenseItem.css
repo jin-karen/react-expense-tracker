@@ -2,7 +2,7 @@
     margin: 20px auto;
     display: flex;
     gap: 3rem;
-    background-color: #A7CCED; /**#d6d2d2#eae4e9**/
+    background-color: #A7CCED; 
     padding: 1rem;
 }
 
@@ -20,7 +20,7 @@
 .expense-item__price{
     font-size: 1.5rem;
     align-self: center;
-    background-color: #cae0e4; /**/
+    background-color: #cae0e4; 
     border-radius: 10px;
     padding: 15px;
     border: 2px solid white;

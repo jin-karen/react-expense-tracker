@@ -15,22 +15,6 @@ function ExpenseForm(props) {
 	function dateChangeHandler(event) {
 		setEnteredDate(event.target.value);
 	}
-    // single state for multiple inputs
-    // const [userInput, setUserInput] = useState ({
-    //     enteredTitle: '',
-    //     enteredAmount: '',
-    //     enteredDate: ''
-    // });
-    // function titleChangeHandler(event) {
-    //     // approach 1 - not ideal for state depending on prev state
-    //     // setUserInput({
-    //     //     ...userInput,
-    //     //     enteredTitle: event.target.value,
-    //     // });
-    //     setUserInput((prevState) => {
-    //         return {...prevState, enteredTitle: event.target.value}
-    //     });
-    // }
     function submitHandler(event) {
         event.preventDefault();
         const expenseData = {
