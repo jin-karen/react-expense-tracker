@@ -68,5 +68,7 @@ Along with learning many React concepts and basics, I was also able to practice 
 
 
 ## Screenshots
-![React Expense Tracker App](https://github.com/jin-karen/react-expense-tracker/assets/102393842/df50e162-c23e-454e-8813-5da9890a5bf9)
-![React Expense Tracker App 2](https://github.com/jin-karen/react-expense-tracker/assets/102393842/6b45dc31-a752-4bcc-a35c-fc7ea9d45139)
+![React Expense Tracker App](https://github.com/jin-karen/react-expense-tracker/assets/102393842/8f14fa45-d168-4df7-9a64-ae298b07f13a)
+
+![React Expense Tracker App 2](https://github.com/jin-karen/react-expense-tracker/assets/102393842/790e9731-f396-4c40-a90c-79d0b2da9da6)
+
