@@ -6,7 +6,7 @@ A simple React expense tracker web application that has the functionality to add
 ## To Run
 Live: https://jin-karen.github.io/react-expense-tracker/
 
-Project was coded for 1920x1080 display resolution and adjustments were made for smaller screens.
+Project was coded for 1920x1080 display resolution and adjustments were made for smaller screens.<br/>
 Application is optimized for mobile devices.
 
 In order to run the application locally, first ensure that you have node.js installed and then clone the project repository to your local computer. Navigate to the root directory of the repository and run:
