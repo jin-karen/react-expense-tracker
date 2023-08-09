@@ -18,3 +18,9 @@ body {
     color: #29415d;
 }
 
+footer{
+    text-align: center;
+    color: #29415d;
+    position: relative;
+    top: 30px;
+}

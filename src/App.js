@@ -41,6 +41,7 @@ function App() {
 			<h1 className="project-title">React Expense Tracker</h1>
 			<NewExpense onAddExpense={addExpenseHandler} />
 			<Expenses expenses={expenses}/>
+			<footer>© 2023 Karen Jin</footer>
 		</div>
 	);
 }
