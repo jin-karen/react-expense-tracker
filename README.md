@@ -52,7 +52,7 @@ The last step to deploying the application is to run this in your terminal:
 ```
 npm run deploy
 ```
-If encountering any issues like I did, make sure to: double check the homepage url, ensure you have the proper access/permissions to the repo (ie. SSH key), clearing gh-pages from cache in node_modules, or even using Git Bash Here to run the last deploy statement. 
+If encountering any issues like I did, make sure to: double check the homepage url, ensure you have the proper access/permissions to the repo (ie. SSH key), clearing gh-pages from cache in node_modules, or even using Git Bash Here to run the last deploy statement. In addition, if you make any changes to the project after deploying the app to gh-pages, just run "npm run deploy" add and push the changes to github to update the build.
 
 Along with learning many React concepts and basics, I was also able to practice existing knowledge while building this application. My understanding of JavaScript helped in creating and writing logic for the components and my comprehension on HTML paired to allow me to utilize JSX (JavaScript Syntax Expension) comfortably. Additionally, I was able to apply CSS to not only style the application but also make the design responsive.
 
